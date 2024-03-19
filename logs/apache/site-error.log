@@ -1,0 +1,12 @@
+[Fri Nov 24 02:35:10.892953 2023] [proxy_fcgi:error] [pid 78468:tid 12963155968] [client ::1:52516] Premature end of script headers: index.php
+[Fri Nov 24 02:35:10.893631 2023] [proxy_fcgi:error] [pid 78468:tid 12963155968] [client ::1:52516] AH01070: Error parsing script headers
+[Fri Nov 24 02:35:10.893646 2023] [proxy_fcgi:error] [pid 78468:tid 12963155968] (22)Invalid argument: [client ::1:52516] AH01075: Error dispatching request to :10003: 
+[Fri Nov 24 02:35:22.740100 2023] [proxy_fcgi:error] [pid 78468:tid 12970668032] [client ::1:52712] Premature end of script headers: index.php
+[Fri Nov 24 02:35:22.740217 2023] [proxy_fcgi:error] [pid 78468:tid 12970668032] [client ::1:52712] AH01070: Error parsing script headers
+[Fri Nov 24 02:35:22.740222 2023] [proxy_fcgi:error] [pid 78468:tid 12970668032] (22)Invalid argument: [client ::1:52712] AH01075: Error dispatching request to :10003: 
+[Fri Nov 24 02:37:59.102884 2023] [proxy_fcgi:error] [pid 78468:tid 12971204608] [client ::1:54062] Premature end of script headers: index.php
+[Fri Nov 24 02:37:59.103190 2023] [proxy_fcgi:error] [pid 78468:tid 12971204608] [client ::1:54062] AH01070: Error parsing script headers
+[Fri Nov 24 02:37:59.103200 2023] [proxy_fcgi:error] [pid 78468:tid 12971204608] (22)Invalid argument: [client ::1:54062] AH01075: Error dispatching request to :10003: 
+[Fri Nov 24 02:38:36.016173 2023] [proxy_fcgi:error] [pid 78468:tid 12959936512] [client ::1:54605] Premature end of script headers: index.php
+[Fri Nov 24 02:38:36.016299 2023] [proxy_fcgi:error] [pid 78468:tid 12959936512] [client ::1:54605] AH01070: Error parsing script headers
+[Fri Nov 24 02:38:36.016304 2023] [proxy_fcgi:error] [pid 78468:tid 12959936512] (22)Invalid argument: [client ::1:54605] AH01075: Error dispatching request to :10003: 

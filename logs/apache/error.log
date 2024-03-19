@@ -1,0 +1,32 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 22 22:38:29.848802 2023] [mpm_event:notice] [pid 77964:tid 8607671808] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Nov 22 22:38:29.849259 2023] [core:notice] [pid 77964:tid 8607671808] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Wed Nov 22 22:44:11.452293 2023] [mpm_event:notice] [pid 77964:tid 8607671808] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 22 22:44:14.995083 2023] [mpm_event:notice] [pid 78388:tid 8593950208] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Nov 22 22:44:14.995561 2023] [core:notice] [pid 78388:tid 8593950208] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Fri Nov 24 18:29:10.553442 2023] [mpm_event:notice] [pid 78388:tid 8593950208] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 28 17:01:18.858036 2023] [mpm_event:notice] [pid 88357:tid 8636720640] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Dec 28 17:01:18.870329 2023] [core:notice] [pid 88357:tid 8636720640] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Thu Dec 28 17:21:18.349821 2023] [mpm_event:notice] [pid 88357:tid 8636720640] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 30 11:21:12.119472 2023] [mpm_event:notice] [pid 97900:tid 8605267456] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 30 11:21:12.119878 2023] [core:notice] [pid 97900:tid 8605267456] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Sat Dec 30 11:24:10.809390 2023] [mpm_event:notice] [pid 97900:tid 8605267456] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 30 11:33:32.522309 2023] [mpm_event:notice] [pid 98060:tid 8663574016] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 30 11:33:32.522765 2023] [core:notice] [pid 98060:tid 8663574016] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Sat Dec 30 21:51:24.690773 2023] [mpm_event:notice] [pid 98060:tid 8663574016] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 01 20:45:06.684347 2024] [mpm_event:notice] [pid 967:tid 8635483648] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jan 01 20:45:06.685238 2024] [core:notice] [pid 967:tid 8635483648] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Mon Jan 01 22:08:20.872420 2024] [mpm_event:notice] [pid 967:tid 8635483648] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 02 10:00:03.898432 2024] [mpm_event:notice] [pid 1803:tid 8629024256] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jan 02 10:00:03.898753 2024] [core:notice] [pid 1803:tid 8629024256] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Tue Jan 02 21:16:03.793802 2024] [mpm_event:notice] [pid 1803:tid 8629024256] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Air-cua-Tran-5.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 03 22:25:12.986511 2024] [mpm_event:notice] [pid 6102:tid 8602920448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jan 03 22:25:12.988048 2024] [core:notice] [pid 6102:tid 8602920448] AH00094: Command line: '/Users/tranthibichphe/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tranthibichphe/Library/Application Support/Local/run/LMeyYTStR/conf/apache/apache2.conf'
+[Thu Jan 04 00:46:22.710098 2024] [mpm_event:notice] [pid 6102:tid 8602920448] AH00491: caught SIGTERM, shutting down
